@@ -24,7 +24,7 @@ In the phase retrieval problem, the aim is the recovery of an unknown image from
   <div style="text-align: center;">
     <strong>PPHIO-Output images</strong><br>
     <img src="output_images/1_PPHIO_out.png" width="300"/>
-    <img src="output_images/5_PPPIO_out.png" width="300"/>
+    <img src="output_images/5_PPHIO_out.png" width="300"/>
 
   </div>
 </div>
