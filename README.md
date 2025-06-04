@@ -30,7 +30,7 @@ In the phase retrieval problem, the aim is the recovery of an unknown image from
 </div>
 
 ## How to start
-* Download Packages.zip file from this [link](https://drive.google.com/drive/folders/1f9eNcxyflmZJ7G47pdd6KyEzRdBxuTiU?usp=drive_link) and unzip into the same folder.
+* Download Packages.zip file from this [link](https://drive.google.com/file/d/1U6MMrykzbwBGEYWIbZjQcZ7p--lBwQGI/view?usp=sharing) and unzip into the same folder.
 * Run main_matlab_cpu.py file in your CPU.
 
 ## Requirements
