@@ -11,20 +11,20 @@ In the phase retrieval problem, the aim is the recovery of an unknown image from
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center;">
     <strong>Original images</strong><br>
-    <img src="output_images/1_original.png" width="200"/>
-    <img src="output_images/5_original.png" width="200"/>
+    <img src="output_images/1_original.png" width="300"/>
+    <img src="output_images/5_original.png" width="300"/>
     <!-- Add more input images as needed -->
   </div>
   <div style="text-align: center;">
     <strong>HIO-Output images</strong><br>
-    <img src="output_images/1_HIO_out.png" width="200"/>
-    <img src="output_images/5_HIO_out.png" width="200"/>
+    <img src="output_images/1_HIO_out.png" width="300"/>
+    <img src="output_images/5_HIO_out.png" width="300"/>
 
   </div>
   <div style="text-align: center;">
     <strong>PPHIO-Output images</strong><br>
-    <img src="output_images/1_PPHIO_out.png" width="200"/>
-    <img src="output_images/5_HPPIO_out.png" width="200"/>
+    <img src="output_images/1_PPHIO_out.png" width="300"/>
+    <img src="output_images/5_PPPIO_out.png" width="300"/>
 
   </div>
 </div>
